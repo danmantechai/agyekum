@@ -1,0 +1,2664 @@
+('/home/ai/Desktop/nfp trading/dist/api_v2',
+ True,
+ False,
+ False,
+ None,
+ None,
+ False,
+ False,
+ None,
+ True,
+ False,
+ None,
+ None,
+ None,
+ '/home/ai/Desktop/nfp trading/build/api_v2/api_v2.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz', '/home/ai/Desktop/nfp trading/build/api_v2/PYZ-00.pyz', 'PYZ'),
+  ('struct',
+   '/home/ai/Desktop/nfp trading/build/api_v2/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/home/ai/Desktop/nfp trading/build/api_v2/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/home/ai/Desktop/nfp trading/build/api_v2/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/home/ai/Desktop/nfp trading/build/api_v2/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('api_v2', '/home/ai/Desktop/nfp trading/api_v2.py', 'PYSOURCE'),
+  ('libpython3.10.so', '/lib/x86_64-linux-gnu/libpython3.10.so', 'BINARY'),
+  ('lib-dynload/_contextvars.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_contextvars.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_decimal.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_decimal.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_opcode.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_opcode.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_hashlib.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_hashlib.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/resource.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/resource.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_lzma.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_lzma.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_bz2.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_bz2.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_posixshmem.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_posixshmem.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_multiprocessing.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_multiprocessing.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/termios.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/termios.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_ssl.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_ssl.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/mmap.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/mmap.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_ctypes.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_ctypes.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_queue.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_queue.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_uuid.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_uuid.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/readline.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/readline.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_multibytecodec.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_multibytecodec.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_jp.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_codecs_jp.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_kr.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_codecs_kr.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_iso2022.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_codecs_iso2022.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_cn.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_codecs_cn.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_tw.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_codecs_tw.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_hk.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_codecs_hk.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_json.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_json.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('charset_normalizer/md__mypyc.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/charset_normalizer/md__mypyc.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('charset_normalizer/md.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/charset_normalizer/md.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('lib-dynload/_asyncio.cpython-310-x86_64-linux-gnu.so',
+   '/usr/lib/python3.10/lib-dynload/_asyncio.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('yarl/_quoting_c.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/yarl/_quoting_c.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('propcache/_helpers_c.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/propcache/_helpers_c.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('multidict/_multidict.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/multidict/_multidict.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('aiohttp/_http_writer.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/aiohttp/_http_writer.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('aiohttp/_http_parser.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/aiohttp/_http_parser.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('frozenlist/_frozenlist.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/frozenlist/_frozenlist.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('aiohttp/_websocket/mask.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/aiohttp/_websocket/mask.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('aiohttp/_websocket/reader_c.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/aiohttp/_websocket/reader_c.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('rapidfuzz/utils_cpp.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/rapidfuzz/utils_cpp.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('rapidfuzz/process_cpp_impl.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/rapidfuzz/process_cpp_impl.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('rapidfuzz/fuzz_cpp_avx2.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/rapidfuzz/fuzz_cpp_avx2.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('rapidfuzz/fuzz_cpp.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/rapidfuzz/fuzz_cpp.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('rapidfuzz/distance/metrics_cpp_avx2.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/rapidfuzz/distance/metrics_cpp_avx2.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('rapidfuzz/distance/metrics_cpp.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/rapidfuzz/distance/metrics_cpp.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('rapidfuzz/distance/_initialize_cpp.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/rapidfuzz/distance/_initialize_cpp.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('rapidfuzz/_feature_detector_cpp.cpython-310-x86_64-linux-gnu.so',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/rapidfuzz/_feature_detector_cpp.cpython-310-x86_64-linux-gnu.so',
+   'EXTENSION'),
+  ('libz.so.1', '/lib/x86_64-linux-gnu/libz.so.1', 'BINARY'),
+  ('libexpat.so.1', '/lib/x86_64-linux-gnu/libexpat.so.1', 'BINARY'),
+  ('libmpdec.so.3', '/lib/x86_64-linux-gnu/libmpdec.so.3', 'BINARY'),
+  ('libcrypto.so.3', '/lib/x86_64-linux-gnu/libcrypto.so.3', 'BINARY'),
+  ('liblzma.so.5', '/lib/x86_64-linux-gnu/liblzma.so.5', 'BINARY'),
+  ('libbz2.so.1.0', '/lib/x86_64-linux-gnu/libbz2.so.1.0', 'BINARY'),
+  ('libssl.so.3', '/lib/x86_64-linux-gnu/libssl.so.3', 'BINARY'),
+  ('libffi.so.8', '/lib/x86_64-linux-gnu/libffi.so.8', 'BINARY'),
+  ('libuuid.so.1', '/lib/x86_64-linux-gnu/libuuid.so.1', 'BINARY'),
+  ('libtinfo.so.6', '/lib/x86_64-linux-gnu/libtinfo.so.6', 'BINARY'),
+  ('libreadline.so.8', '/lib/x86_64-linux-gnu/libreadline.so.8', 'BINARY'),
+  ('libgcc_s.so.1', '/lib/x86_64-linux-gnu/libgcc_s.so.1', 'BINARY'),
+  ('libstdc++.so.6', '/lib/x86_64-linux-gnu/libstdc++.so.6', 'BINARY'),
+  ('.env', '/home/ai/Desktop/nfp trading/.env', 'DATA'),
+  ('base_library.zip',
+   '/home/ai/Desktop/nfp trading/build/api_v2/base_library.zip',
+   'DATA'),
+  ('certifi/py.typed',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/certifi/py.typed',
+   'DATA'),
+  ('certifi/cacert.pem',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/certifi/cacert.pem',
+   'DATA'),
+  ('pytz/zoneinfo/America/Martinique',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Martinique',
+   'DATA'),
+  ('pytz/zoneinfo/America/Tortola',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Tortola',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+8',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+8',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Mogadishu',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Mogadishu',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Mountain',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Canada/Mountain',
+   'DATA'),
+  ('pytz/zoneinfo/America/Tijuana',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Tijuana',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+0',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+0',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Efate',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Efate',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-6',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-6',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Kaliningrad',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Kaliningrad',
+   'DATA'),
+  ('pytz/zoneinfo/America/Dawson_Creek',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Dawson_Creek',
+   'DATA'),
+  ('pytz/zoneinfo/America/Boa_Vista',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Boa_Vista',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Makassar',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Makassar',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Zaporozhye',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Zaporozhye',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Novokuznetsk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Novokuznetsk',
+   'DATA'),
+  ('pytz/zoneinfo/America/Virgin',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Virgin',
+   'DATA'),
+  ('pytz/zoneinfo/GB',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/GB',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Kyiv',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Kyiv',
+   'DATA'),
+  ('pytz/zoneinfo/America/Fort_Wayne',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Fort_Wayne',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+2',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+2',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Christmas',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Indian/Christmas',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Mauritius',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Indian/Mauritius',
+   'DATA'),
+  ('pytz/zoneinfo/America/Chicago',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Chicago',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Muscat',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Muscat',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Ponape',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Ponape',
+   'DATA'),
+  ('pytz/zoneinfo/Mexico/General',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Mexico/General',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Thimbu',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Thimbu',
+   'DATA'),
+  ('pytz/zoneinfo/America/Edmonton',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Edmonton',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Libreville',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Libreville',
+   'DATA'),
+  ('pytz/zoneinfo/Brazil/DeNoronha',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Brazil/DeNoronha',
+   'DATA'),
+  ('pytz/zoneinfo/America/Grenada',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Grenada',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Calcutta',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Calcutta',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Barnaul',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Barnaul',
+   'DATA'),
+  ('pytz/zoneinfo/America/Kentucky/Louisville',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Kentucky/Louisville',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Atyrau',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Atyrau',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Skopje',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Skopje',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Dakar',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Dakar',
+   'DATA'),
+  ('pytz/zoneinfo/Hongkong',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Hongkong',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Monaco',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Monaco',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Niamey',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Niamey',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/ComodRivadavia',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/ComodRivadavia',
+   'DATA'),
+  ('pytz/zoneinfo/America/Yellowknife',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Yellowknife',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Maseru',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Maseru',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Mayotte',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Indian/Mayotte',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Tunis',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Tunis',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Pontianak',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Pontianak',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/ACT',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/ACT',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Troll',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Antarctica/Troll',
+   'DATA'),
+  ('pytz/zoneinfo/UCT',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/UCT',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Vaduz',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Vaduz',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Marquesas',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Marquesas',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Malta',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Malta',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/North',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/North',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Samarkand',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Samarkand',
+   'DATA'),
+  ('pytz/zoneinfo/America/Coral_Harbour',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Coral_Harbour',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/Greenwich',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/Greenwich',
+   'DATA'),
+  ('pytz/zoneinfo/America/North_Dakota/New_Salem',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/North_Dakota/New_Salem',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Amsterdam',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Amsterdam',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Asmera',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Asmera',
+   'DATA'),
+  ('pytz/zoneinfo/America/Porto_Acre',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Porto_Acre',
+   'DATA'),
+  ('pytz/zoneinfo/WET',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/WET',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Pyongyang',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Pyongyang',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Windhoek',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Windhoek',
+   'DATA'),
+  ('pytz/zoneinfo/America/Swift_Current',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Swift_Current',
+   'DATA'),
+  ('pytz/zoneinfo/America/Phoenix',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Phoenix',
+   'DATA'),
+  ('pytz/zoneinfo/America/Jamaica',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Jamaica',
+   'DATA'),
+  ('pytz/zoneinfo/EST',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/EST',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Blantyre',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Blantyre',
+   'DATA'),
+  ('pytz/zoneinfo/US/Mountain',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/US/Mountain',
+   'DATA'),
+  ('pytz/zoneinfo/America/Guyana',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Guyana',
+   'DATA'),
+  ('pytz/zoneinfo/America/Anguilla',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Anguilla',
+   'DATA'),
+  ('pytz/zoneinfo/America/Eirunepe',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Eirunepe',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Omsk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Omsk',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Sarajevo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Sarajevo',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Yap',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Yap',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Dili',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Dili',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Tucuman',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/Tucuman',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Zagreb',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Zagreb',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Tirane',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Tirane',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Yangon',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Yangon',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Isle_of_Man',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Isle_of_Man',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indianapolis',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Indianapolis',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+6',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+6',
+   'DATA'),
+  ('pytz/zoneinfo/America/St_Kitts',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/St_Kitts',
+   'DATA'),
+  ('pytz/zoneinfo/Portugal',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Portugal',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Pohnpei',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Pohnpei',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Rarotonga',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Rarotonga',
+   'DATA'),
+  ('pytz/zoneinfo/America/Adak',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Adak',
+   'DATA'),
+  ('pytz/zoneinfo/GMT',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/GMT',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Cairo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Cairo',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Mbabane',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Mbabane',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Fiji',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Fiji',
+   'DATA'),
+  ('pytz/zoneinfo/America/Hermosillo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Hermosillo',
+   'DATA'),
+  ('pytz/zoneinfo/America/Lower_Princes',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Lower_Princes',
+   'DATA'),
+  ('pytz/zoneinfo/Iceland',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Iceland',
+   'DATA'),
+  ('pytz/zoneinfo/America/El_Salvador',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/El_Salvador',
+   'DATA'),
+  ('pytz/zoneinfo/America/Guatemala',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Guatemala',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Fakaofo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Fakaofo',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Qostanay',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Qostanay',
+   'DATA'),
+  ('pytz/zoneinfo/ROK',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/ROK',
+   'DATA'),
+  ('pytz/zoneinfo/America/Puerto_Rico',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Puerto_Rico',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Johnston',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Johnston',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Moscow',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Moscow',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/West',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/West',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Beirut',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Beirut',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Vienna',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Vienna',
+   'DATA'),
+  ('pytz/zoneinfo/America/Bahia',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Bahia',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Mariehamn',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Mariehamn',
+   'DATA'),
+  ('pytz/zoneinfo/America/Bahia_Banderas',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Bahia_Banderas',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Truk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Truk',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Yakutsk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Yakutsk',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Abidjan',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Abidjan',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+11',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+11',
+   'DATA'),
+  ('pytz/zoneinfo/America/Guayaquil',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Guayaquil',
+   'DATA'),
+  ('pytz/zoneinfo/leapseconds',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/leapseconds',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/McMurdo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Antarctica/McMurdo',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Zurich',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Zurich',
+   'DATA'),
+  ('pytz/zoneinfo/America/Antigua',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Antigua',
+   'DATA'),
+  ('pytz/zoneinfo/America/Iqaluit',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Iqaluit',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Lord_Howe',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Lord_Howe',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Kigali',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Kigali',
+   'DATA'),
+  ('pytz/zoneinfo/America/St_Thomas',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/St_Thomas',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Lagos',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Lagos',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/San_Luis',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/San_Luis',
+   'DATA'),
+  ('pytz/zoneinfo/US/Arizona',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/US/Arizona',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Comoro',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Indian/Comoro',
+   'DATA'),
+  ('pytz/zoneinfo/America/Ojinaga',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Ojinaga',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Hong_Kong',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Hong_Kong',
+   'DATA'),
+  ('pytz/zoneinfo/America/St_Barthelemy',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/St_Barthelemy',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Yekaterinburg',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Yekaterinburg',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Hobart',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Hobart',
+   'DATA'),
+  ('pytz/zoneinfo/GMT+0',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/GMT+0',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Juba',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Juba',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Brunei',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Brunei',
+   'DATA'),
+  ('pytz/zoneinfo/America/Catamarca',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Catamarca',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Hebron',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Hebron',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/South',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/South',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ust-Nera',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Ust-Nera',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Buenos_Aires',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/Buenos_Aires',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Helsinki',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Helsinki',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Brisbane',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Brisbane',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Tell_City',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Indiana/Tell_City',
+   'DATA'),
+  ('pytz/zoneinfo/Cuba',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Cuba',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-10',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-10',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/El_Aaiun',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/El_Aaiun',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Cocos',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Indian/Cocos',
+   'DATA'),
+  ('pytz/zoneinfo/America/Porto_Velho',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Porto_Velho',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Samara',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Samara',
+   'DATA'),
+  ('pytz/zoneinfo/America/Halifax',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Halifax',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Baghdad',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Baghdad',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-8',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-8',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Casablanca',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Casablanca',
+   'DATA'),
+  ('pytz/zoneinfo/America/Maceio',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Maceio',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Tokyo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Tokyo',
+   'DATA'),
+  ('pytz/zoneinfo/US/Alaska',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/US/Alaska',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Currie',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Currie',
+   'DATA'),
+  ('pytz/zoneinfo/GMT0',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/GMT0',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT0',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT0',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Aqtobe',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Aqtobe',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Bahrain',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Bahrain',
+   'DATA'),
+  ('pytz/zoneinfo/America/Metlakatla',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Metlakatla',
+   'DATA'),
+  ('pytz/zoneinfo/America/Inuvik',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Inuvik',
+   'DATA'),
+  ('pytz/zoneinfo/Mexico/BajaNorte',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Mexico/BajaNorte',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Bougainville',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Bougainville',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Majuro',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Majuro',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Yancowinna',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Yancowinna',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Apia',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Apia',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Norfolk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Norfolk',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Jersey',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Jersey',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Atlantic',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Canada/Atlantic',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/San_Juan',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/San_Juan',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Gambier',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Gambier',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-13',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-13',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Djibouti',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Djibouti',
+   'DATA'),
+  ('pytz/zoneinfo/Jamaica',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Jamaica',
+   'DATA'),
+  ('pytz/zoneinfo/America/North_Dakota/Beulah',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/North_Dakota/Beulah',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Vatican',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Vatican',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Istanbul',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Istanbul',
+   'DATA'),
+  ('pytz/zoneinfo/tzdata.zi',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/tzdata.zi',
+   'DATA'),
+  ('pytz/zoneinfo/US/Central',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/US/Central',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Kinshasa',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Kinshasa',
+   'DATA'),
+  ('pytz/zoneinfo/Poland',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Poland',
+   'DATA'),
+  ('pytz/zoneinfo/America/Cambridge_Bay',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Cambridge_Bay',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Bangkok',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Bangkok',
+   'DATA'),
+  ('pytz/zoneinfo/America/Paramaribo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Paramaribo',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Faroe',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Atlantic/Faroe',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Paris',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Paris',
+   'DATA'),
+  ('pytz/zoneinfo/America/New_York',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/New_York',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Kosrae',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Kosrae',
+   'DATA'),
+  ('pytz/zoneinfo/America/Moncton',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Moncton',
+   'DATA'),
+  ('pytz/zoneinfo/America/La_Paz',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/La_Paz',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Banjul',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Banjul',
+   'DATA'),
+  ('pytz/zoneinfo/America/Santo_Domingo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Santo_Domingo',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Tripoli',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Tripoli',
+   'DATA'),
+  ('pytz/zoneinfo/America/Dawson',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Dawson',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Aqtau',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Aqtau',
+   'DATA'),
+  ('pytz/zoneinfo/America/Jujuy',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Jujuy',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Sao_Tome',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Sao_Tome',
+   'DATA'),
+  ('pytz/zoneinfo/America/Thule',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Thule',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Belgrade',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Belgrade',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Eucla',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Eucla',
+   'DATA'),
+  ('pytz/zoneinfo/America/Campo_Grande',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Campo_Grande',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Riga',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Riga',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/San_Marino',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/San_Marino',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Aden',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Aden',
+   'DATA'),
+  ('pytz/zoneinfo/America/Vancouver',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Vancouver',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Tomsk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Tomsk',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Faeroe',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Atlantic/Faeroe',
+   'DATA'),
+  ('pytz/zoneinfo/America/St_Vincent',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/St_Vincent',
+   'DATA'),
+  ('pytz/zoneinfo/America/Aruba',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Aruba',
+   'DATA'),
+  ('pytz/zoneinfo/America/Ensenada',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Ensenada',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Ouagadougou',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Ouagadougou',
+   'DATA'),
+  ('pytz/zoneinfo/PRC',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/PRC',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/UCT',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/UCT',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Rome',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Rome',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Dubai',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Dubai',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Sofia',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Sofia',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Nauru',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Nauru',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Minsk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Minsk',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kuching',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Kuching',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Tasmania',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Tasmania',
+   'DATA'),
+  ('pytz/zoneinfo/Iran',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Iran',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kashgar',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Kashgar',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Chagos',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Indian/Chagos',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Nouakchott',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Nouakchott',
+   'DATA'),
+  ('pytz/zoneinfo/America/Havana',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Havana',
+   'DATA'),
+  ('pytz/zoneinfo/America/Sao_Paulo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Sao_Paulo',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Kirov',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Kirov',
+   'DATA'),
+  ('pytz/zoneinfo/America/Grand_Turk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Grand_Turk',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Marengo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Indiana/Marengo',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Maputo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Maputo',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Adelaide',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Adelaide',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/Universal',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/Universal',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Chungking',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Chungking',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Funafuti',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Funafuti',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Dushanbe',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Dushanbe',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Madrid',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Madrid',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Irkutsk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Irkutsk',
+   'DATA'),
+  ('pytz/zoneinfo/America/Nome',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Nome',
+   'DATA'),
+  ('pytz/zoneinfo/America/Kralendijk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Kralendijk',
+   'DATA'),
+  ('pytz/zoneinfo/Factory',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Factory',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Nicosia',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Nicosia',
+   'DATA'),
+  ('pytz/zoneinfo/US/Hawaii',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/US/Hawaii',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+7',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+7',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Anadyr',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Anadyr',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/South_Pole',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Antarctica/South_Pole',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Niue',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Niue',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/London',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/London',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Khandyga',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Khandyga',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Srednekolymsk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Srednekolymsk',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Brussels',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Brussels',
+   'DATA'),
+  ('pytz/zoneinfo/Zulu',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Zulu',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Jakarta',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Jakarta',
+   'DATA'),
+  ('pytz/zoneinfo/America/Detroit',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Detroit',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Copenhagen',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Copenhagen',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Saratov',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Saratov',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Sakhalin',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Sakhalin',
+   'DATA'),
+  ('pytz/zoneinfo/America/Marigot',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Marigot',
+   'DATA'),
+  ('pytz/zoneinfo/America/Knox_IN',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Knox_IN',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Jerusalem',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Jerusalem',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kuala_Lumpur',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Kuala_Lumpur',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Porto-Novo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Porto-Novo',
+   'DATA'),
+  ('pytz/zoneinfo/America/Montreal',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Montreal',
+   'DATA'),
+  ('pytz/zoneinfo/America/Whitehorse',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Whitehorse',
+   'DATA'),
+  ('pytz/zoneinfo/Kwajalein',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Kwajalein',
+   'DATA'),
+  ('pytz/zoneinfo/America/Guadeloupe',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Guadeloupe',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-4',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-4',
+   'DATA'),
+  ('pytz/zoneinfo/America/Shiprock',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Shiprock',
+   'DATA'),
+  ('pytz/zoneinfo/Israel',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Israel',
+   'DATA'),
+  ('pytz/zoneinfo/America/Chihuahua',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Chihuahua',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Kerguelen',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Indian/Kerguelen',
+   'DATA'),
+  ('pytz/zoneinfo/America/Fort_Nelson',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Fort_Nelson',
+   'DATA'),
+  ('pytz/zoneinfo/America/Managua',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Managua',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Monrovia',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Monrovia',
+   'DATA'),
+  ('pytz/zoneinfo/America/Merida',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Merida',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+4',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+4',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Kiev',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Kiev',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/South_Georgia',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Atlantic/South_Georgia',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Riyadh',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Riyadh',
+   'DATA'),
+  ('pytz/zoneinfo/America/Cayenne',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Cayenne',
+   'DATA'),
+  ('pytz/zoneinfo/America/Lima',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Lima',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Nairobi',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Nairobi',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Busingen',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Busingen',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Pago_Pago',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Pago_Pago',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/LHI',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/LHI',
+   'DATA'),
+  ('pytz/zoneinfo/America/Kentucky/Monticello',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Kentucky/Monticello',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Port_Moresby',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Port_Moresby',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Vilnius',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Vilnius',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Antananarivo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Indian/Antananarivo',
+   'DATA'),
+  ('pytz/zoneinfo/America/Caracas',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Caracas',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-7',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-7',
+   'DATA'),
+  ('pytz/zoneinfo/Greenwich',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Greenwich',
+   'DATA'),
+  ('pytz/zoneinfo/America/North_Dakota/Center',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/North_Dakota/Center',
+   'DATA'),
+  ('pytz/zoneinfo/America/Atikokan',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Atikokan',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-12',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-12',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ujung_Pandang',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Ujung_Pandang',
+   'DATA'),
+  ('pytz/zoneinfo/America/Cancun',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Cancun',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Phnom_Penh',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Phnom_Penh',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Midway',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Midway',
+   'DATA'),
+  ('pytz/zoneinfo/America/Rankin_Inlet',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Rankin_Inlet',
+   'DATA'),
+  ('pytz/zoneinfo/US/Indiana-Starke',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/US/Indiana-Starke',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Enderbury',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Enderbury',
+   'DATA'),
+  ('pytz/zoneinfo/Brazil/Acre',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Brazil/Acre',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Easter',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Easter',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Salta',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/Salta',
+   'DATA'),
+  ('pytz/zoneinfo/US/Aleutian',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/US/Aleutian',
+   'DATA'),
+  ('pytz/zoneinfo/America/Barbados',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Barbados',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Pitcairn',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Pitcairn',
+   'DATA'),
+  ('pytz/zoneinfo/America/Belem',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Belem',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Syowa',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Antarctica/Syowa',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Lubumbashi',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Lubumbashi',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Guadalcanal',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Guadalcanal',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Hovd',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Hovd',
+   'DATA'),
+  ('pytz/zoneinfo/America/Boise',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Boise',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Victoria',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Victoria',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/La_Rioja',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/La_Rioja',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+1',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+1',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Kwajalein',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Kwajalein',
+   'DATA'),
+  ('pytz/zoneinfo/MET',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/MET',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Algiers',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Algiers',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Tel_Aviv',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Tel_Aviv',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Noumea',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Noumea',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Chatham',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Chatham',
+   'DATA'),
+  ('pytz/zoneinfo/America/Nipigon',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Nipigon',
+   'DATA'),
+  ('pytz/zoneinfo/NZ-CHAT',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/NZ-CHAT',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/DumontDUrville',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Antarctica/DumontDUrville',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Mahe',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Indian/Mahe',
+   'DATA'),
+  ('pytz/zoneinfo/zonenow.tab',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/zonenow.tab',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Nicosia',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Nicosia',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Astrakhan',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Astrakhan',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Uzhgorod',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Uzhgorod',
+   'DATA'),
+  ('pytz/zoneinfo/Arctic/Longyearbyen',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Arctic/Longyearbyen',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Rangoon',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Rangoon',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Jujuy',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/Jujuy',
+   'DATA'),
+  ('pytz/zoneinfo/America/Mexico_City',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Mexico_City',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Guernsey',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Guernsey',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Malabo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Malabo',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Gaza',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Gaza',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Macao',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Macao',
+   'DATA'),
+  ('pytz/zoneinfo/America/Cuiaba',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Cuiaba',
+   'DATA'),
+  ('pytz/zoneinfo/America/Sitka',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Sitka',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Cape_Verde',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Atlantic/Cape_Verde',
+   'DATA'),
+  ('pytz/zoneinfo/Libya',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Libya',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Chita',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Chita',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Auckland',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Auckland',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Conakry',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Conakry',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Ulyanovsk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Ulyanovsk',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Tashkent',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Tashkent',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Accra',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Accra',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Yerevan',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Yerevan',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Timbuktu',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Timbuktu',
+   'DATA'),
+  ('pytz/zoneinfo/America/Pangnirtung',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Pangnirtung',
+   'DATA'),
+  ('pytz/zoneinfo/Turkey',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Turkey',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Bissau',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Bissau',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Palmer',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Antarctica/Palmer',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Douala',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Douala',
+   'DATA'),
+  ('pytz/zoneinfo/America/Belize',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Belize',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Athens',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Athens',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kuwait',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Kuwait',
+   'DATA'),
+  ('pytz/zoneinfo/America/Atka',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Atka',
+   'DATA'),
+  ('pytz/zoneinfo/Universal',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Universal',
+   'DATA'),
+  ('pytz/zoneinfo/America/Danmarkshavn',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Danmarkshavn',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Ljubljana',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Ljubljana',
+   'DATA'),
+  ('pytz/zoneinfo/America/Rosario',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Rosario',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Kanton',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Kanton',
+   'DATA'),
+  ('pytz/zoneinfo/America/Asuncion',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Asuncion',
+   'DATA'),
+  ('pytz/zoneinfo/America/Araguaina',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Araguaina',
+   'DATA'),
+  ('pytz/zoneinfo/America/Rainy_River',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Rainy_River',
+   'DATA'),
+  ('pytz/zoneinfo/MST',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/MST',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Dublin',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Dublin',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ashgabat',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Ashgabat',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Singapore',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Singapore',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Rio_Gallegos',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/Rio_Gallegos',
+   'DATA'),
+  ('pytz/zoneinfo/US/East-Indiana',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/US/East-Indiana',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Stockholm',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Stockholm',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-5',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-5',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Indianapolis',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Indiana/Indianapolis',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Stanley',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Atlantic/Stanley',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Palau',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Palau',
+   'DATA'),
+  ('pytz/zoneinfo/America/Nuuk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Nuuk',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Bamako',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Bamako',
+   'DATA'),
+  ('pytz/zoneinfo/GB-Eire',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/GB-Eire',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-2',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-2',
+   'DATA'),
+  ('pytz/zoneinfo/America/Resolute',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Resolute',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Sydney',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Sydney',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Honolulu',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Honolulu',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Andorra',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Andorra',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+3',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+3',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Lusaka',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Lusaka',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ulan_Bator',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Ulan_Bator',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Almaty',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Almaty',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Tongatapu',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Tongatapu',
+   'DATA'),
+  ('pytz/zoneinfo/America/Santiago',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Santiago',
+   'DATA'),
+  ('pytz/zoneinfo/America/Miquelon',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Miquelon',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-0',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-0',
+   'DATA'),
+  ('pytz/zoneinfo/America/Menominee',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Menominee',
+   'DATA'),
+  ('pytz/zoneinfo/America/Santa_Isabel',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Santa_Isabel',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Tiraspol',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Tiraspol',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Vladivostok',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Vladivostok',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ulaanbaatar',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Ulaanbaatar',
+   'DATA'),
+  ('pytz/zoneinfo/America/Glace_Bay',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Glace_Bay',
+   'DATA'),
+  ('pytz/zoneinfo/Japan',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Japan',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Vostok',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Antarctica/Vostok',
+   'DATA'),
+  ('pytz/zoneinfo/America/St_Johns',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/St_Johns',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-9',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-9',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Saigon',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Saigon',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Tbilisi',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Tbilisi',
+   'DATA'),
+  ('pytz/zoneinfo/America/Godthab',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Godthab',
+   'DATA'),
+  ('pytz/zoneinfo/America/Cayman',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Cayman',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Reykjavik',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Atlantic/Reykjavik',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Mendoza',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/Mendoza',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ho_Chi_Minh',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Ho_Chi_Minh',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Vientiane',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Vientiane',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Saipan',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Saipan',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Taipei',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Taipei',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Freetown',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Freetown',
+   'DATA'),
+  ('pytz/zoneinfo/America/Tegucigalpa',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Tegucigalpa',
+   'DATA'),
+  ('pytz/zoneinfo/US/Pacific',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/US/Pacific',
+   'DATA'),
+  ('pytz/zoneinfo/America/Scoresbysund',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Scoresbysund',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Bangui',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Bangui',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Brazzaville',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Brazzaville',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Ndjamena',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Ndjamena',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Qatar',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Qatar',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Krasnoyarsk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Krasnoyarsk',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Belfast',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Belfast',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Oral',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Oral',
+   'DATA'),
+  ('pytz/zoneinfo/America/Montevideo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Montevideo',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-1',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-1',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Pacific',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Canada/Pacific',
+   'DATA'),
+  ('pytz/zoneinfo/zone.tab',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/zone.tab',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+5',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+5',
+   'DATA'),
+  ('pytz/zoneinfo/Chile/Continental',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Chile/Continental',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Bujumbura',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Bujumbura',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Ceuta',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Ceuta',
+   'DATA'),
+  ('pytz/zoneinfo/US/Samoa',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/US/Samoa',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Famagusta',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Famagusta',
+   'DATA'),
+  ('pytz/zoneinfo/ROC',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/ROC',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kolkata',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Kolkata',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Catamarca',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/Catamarca',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Jan_Mayen',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Atlantic/Jan_Mayen',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Tallinn',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Tallinn',
+   'DATA'),
+  ('pytz/zoneinfo/HST',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/HST',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Manila',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Manila',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Ushuaia',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/Ushuaia',
+   'DATA'),
+  ('pytz/zoneinfo/Singapore',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Singapore',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Jayapura',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Jayapura',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+12',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+12',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Choibalsan',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Choibalsan',
+   'DATA'),
+  ('pytz/zoneinfo/America/Mendoza',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Mendoza',
+   'DATA'),
+  ('pytz/zoneinfo/America/Recife',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Recife',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Podgorica',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Podgorica',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kathmandu',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Kathmandu',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Seoul',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Seoul',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Volgograd',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Volgograd',
+   'DATA'),
+  ('pytz/zoneinfo/EST5EDT',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/EST5EDT',
+   'DATA'),
+  ('pytz/zoneinfo/America/Monterrey',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Monterrey',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Gibraltar',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Gibraltar',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+9',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+9',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Eastern',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Canada/Eastern',
+   'DATA'),
+  ('pytz/zoneinfo/GMT-0',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/GMT-0',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Gaborone',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Gaborone',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Melbourne',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Melbourne',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Winamac',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Indiana/Winamac',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Casey',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Antarctica/Casey',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-14',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-14',
+   'DATA'),
+  ('pytz/zoneinfo/America/Regina',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Regina',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Dacca',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Dacca',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Chongqing',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Chongqing',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Tarawa',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Tarawa',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Thimphu',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Thimphu',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Asmara',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Asmara',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Queensland',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Queensland',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Macau',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Macau',
+   'DATA'),
+  ('pytz/zoneinfo/America/Blanc-Sablon',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Blanc-Sablon',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT+10',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT+10',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Canberra',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Canberra',
+   'DATA'),
+  ('pytz/zoneinfo/CST6CDT',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/CST6CDT',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Vincennes',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Indiana/Vincennes',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Chuuk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Chuuk',
+   'DATA'),
+  ('pytz/zoneinfo/America/Costa_Rica',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Costa_Rica',
+   'DATA'),
+  ('pytz/zoneinfo/America/Curacao',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Curacao',
+   'DATA'),
+  ('pytz/zoneinfo/Brazil/East',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Brazil/East',
+   'DATA'),
+  ('pytz/zoneinfo/America/Manaus',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Manaus',
+   'DATA'),
+  ('pytz/zoneinfo/America/Thunder_Bay',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Thunder_Bay',
+   'DATA'),
+  ('pytz/zoneinfo/America/Los_Angeles',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Los_Angeles',
+   'DATA'),
+  ('pytz/zoneinfo/America/Noronha',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Noronha',
+   'DATA'),
+  ('pytz/zoneinfo/America/Denver',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Denver',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Lindeman',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Lindeman',
+   'DATA'),
+  ('pytz/zoneinfo/America/Argentina/Cordoba',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Argentina/Cordoba',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Vevay',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Indiana/Vevay',
+   'DATA'),
+  ('pytz/zoneinfo/America/Santarem',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Santarem',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Rothera',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Antarctica/Rothera',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-11',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-11',
+   'DATA'),
+  ('pytz/zoneinfo/CET',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/CET',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Broken_Hill',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Broken_Hill',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Magadan',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Magadan',
+   'DATA'),
+  ('pytz/zoneinfo/America/Yakutat',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Yakutat',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Kiritimati',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Kiritimati',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Shanghai',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Shanghai',
+   'DATA'),
+  ('pytz/zoneinfo/America/Anchorage',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Anchorage',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Lome',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Lome',
+   'DATA'),
+  ('pytz/zoneinfo/America/Cordoba',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Cordoba',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Azores',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Atlantic/Azores',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Dhaka',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Dhaka',
+   'DATA'),
+  ('pytz/zoneinfo/MST7MDT',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/MST7MDT',
+   'DATA'),
+  ('pytz/zoneinfo/Navajo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Navajo',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Canary',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Atlantic/Canary',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kamchatka',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Kamchatka',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Bermuda',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Atlantic/Bermuda',
+   'DATA'),
+  ('pytz/zoneinfo/Eire',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Eire',
+   'DATA'),
+  ('pytz/zoneinfo/NZ',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/NZ',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Simferopol',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Simferopol',
+   'DATA'),
+  ('pytz/zoneinfo/PST8PDT',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/PST8PDT',
+   'DATA'),
+  ('pytz/zoneinfo/US/Michigan',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/US/Michigan',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Newfoundland',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Canada/Newfoundland',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Wake',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Wake',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Prague',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Prague',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Qyzylorda',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Qyzylorda',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Ashkhabad',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Ashkhabad',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Urumqi',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Urumqi',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Saskatchewan',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Canada/Saskatchewan',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Istanbul',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Istanbul',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Mawson',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Antarctica/Mawson',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/Zulu',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/Zulu',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Guam',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Guam',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Bucharest',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Bucharest',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Galapagos',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Galapagos',
+   'DATA'),
+  ('pytz/zoneinfo/America/Port-au-Prince',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Port-au-Prince',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Davis',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Antarctica/Davis',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Samoa',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Samoa',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Wallis',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Wallis',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Berlin',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Berlin',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Petersburg',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Indiana/Petersburg',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Lisbon',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Lisbon',
+   'DATA'),
+  ('pytz/zoneinfo/America/Juneau',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Juneau',
+   'DATA'),
+  ('pytz/zoneinfo/America/Buenos_Aires',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Buenos_Aires',
+   'DATA'),
+  ('pytz/zoneinfo/Brazil/West',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Brazil/West',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Perth',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Perth',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Central',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Canada/Central',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Oslo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Oslo',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/NSW',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/NSW',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Colombo',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Colombo',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Harbin',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Harbin',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Dar_es_Salaam',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Dar_es_Salaam',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Luxembourg',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Luxembourg',
+   'DATA'),
+  ('pytz/zoneinfo/America/St_Lucia',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/St_Lucia',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/UTC',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/UTC',
+   'DATA'),
+  ('pytz/zoneinfo/US/Eastern',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/US/Eastern',
+   'DATA'),
+  ('pytz/zoneinfo/America/Toronto',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Toronto',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Warsaw',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Warsaw',
+   'DATA'),
+  ('pytz/zoneinfo/America/Punta_Arenas',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Punta_Arenas',
+   'DATA'),
+  ('pytz/zoneinfo/America/Creston',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Creston',
+   'DATA'),
+  ('pytz/zoneinfo/Antarctica/Macquarie',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Antarctica/Macquarie',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Harare',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Harare',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Reunion',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Indian/Reunion',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Khartoum',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Khartoum',
+   'DATA'),
+  ('pytz/zoneinfo/Etc/GMT-3',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Etc/GMT-3',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/Madeira',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Atlantic/Madeira',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Tehran',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Tehran',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Novosibirsk',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Novosibirsk',
+   'DATA'),
+  ('pytz/zoneinfo/America/Louisville',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Louisville',
+   'DATA'),
+  ('pytz/zoneinfo/iso3166.tab',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/iso3166.tab',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Kampala',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Kampala',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Baku',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Baku',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Katmandu',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Katmandu',
+   'DATA'),
+  ('pytz/zoneinfo/Pacific/Tahiti',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Pacific/Tahiti',
+   'DATA'),
+  ('pytz/zoneinfo/Atlantic/St_Helena',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Atlantic/St_Helena',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Karachi',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Karachi',
+   'DATA'),
+  ('pytz/zoneinfo/America/Port_of_Spain',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Port_of_Spain',
+   'DATA'),
+  ('pytz/zoneinfo/America/Matamoros',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Matamoros',
+   'DATA'),
+  ('pytz/zoneinfo/America/Panama',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Panama',
+   'DATA'),
+  ('pytz/zoneinfo/America/Winnipeg',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Winnipeg',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Bratislava',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Bratislava',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Damascus',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Damascus',
+   'DATA'),
+  ('pytz/zoneinfo/W-SU',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/W-SU',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Addis_Ababa',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Addis_Ababa',
+   'DATA'),
+  ('pytz/zoneinfo/Mexico/BajaSur',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Mexico/BajaSur',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Chisinau',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Chisinau',
+   'DATA'),
+  ('pytz/zoneinfo/America/Goose_Bay',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Goose_Bay',
+   'DATA'),
+  ('pytz/zoneinfo/America/Fortaleza',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Fortaleza',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Bishkek',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Bishkek',
+   'DATA'),
+  ('pytz/zoneinfo/EET',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/EET',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Luanda',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Luanda',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Kabul',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Kabul',
+   'DATA'),
+  ('pytz/zoneinfo/America/Mazatlan',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Mazatlan',
+   'DATA'),
+  ('pytz/zoneinfo/America/Dominica',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Dominica',
+   'DATA'),
+  ('pytz/zoneinfo/America/Rio_Branco',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Rio_Branco',
+   'DATA'),
+  ('pytz/zoneinfo/America/Bogota',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Bogota',
+   'DATA'),
+  ('pytz/zoneinfo/America/Montserrat',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Montserrat',
+   'DATA'),
+  ('pytz/zoneinfo/Indian/Maldives',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Indian/Maldives',
+   'DATA'),
+  ('pytz/zoneinfo/Australia/Darwin',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Australia/Darwin',
+   'DATA'),
+  ('pytz/zoneinfo/UTC',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/UTC',
+   'DATA'),
+  ('pytz/zoneinfo/America/Nassau',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Nassau',
+   'DATA'),
+  ('pytz/zoneinfo/Canada/Yukon',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Canada/Yukon',
+   'DATA'),
+  ('pytz/zoneinfo/Egypt',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Egypt',
+   'DATA'),
+  ('pytz/zoneinfo/America/Indiana/Knox',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Indiana/Knox',
+   'DATA'),
+  ('pytz/zoneinfo/Chile/EasterIsland',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Chile/EasterIsland',
+   'DATA'),
+  ('pytz/zoneinfo/Asia/Amman',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Asia/Amman',
+   'DATA'),
+  ('pytz/zoneinfo/Africa/Johannesburg',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Africa/Johannesburg',
+   'DATA'),
+  ('pytz/zoneinfo/America/Ciudad_Juarez',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/America/Ciudad_Juarez',
+   'DATA'),
+  ('pytz/zoneinfo/zone1970.tab',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/zone1970.tab',
+   'DATA'),
+  ('pytz/zoneinfo/Europe/Budapest',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/pytz/zoneinfo/Europe/Budapest',
+   'DATA'),
+  ('attrs-24.2.0.dist-info/licenses/LICENSE',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/attrs-24.2.0.dist-info/licenses/LICENSE',
+   'DATA'),
+  ('attrs-24.2.0.dist-info/WHEEL',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/attrs-24.2.0.dist-info/WHEEL',
+   'DATA'),
+  ('attrs-24.2.0.dist-info/INSTALLER',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/attrs-24.2.0.dist-info/INSTALLER',
+   'DATA'),
+  ('attrs-24.2.0.dist-info/METADATA',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/attrs-24.2.0.dist-info/METADATA',
+   'DATA'),
+  ('attrs-24.2.0.dist-info/RECORD',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/attrs-24.2.0.dist-info/RECORD',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1733490097,
+ [('run',
+   '/home/ai/Desktop/nfp '
+   'trading/venv/lib/python3.10/site-packages/PyInstaller/bootloader/Linux-64bit-intel/run',
+   'EXECUTABLE')],
+ '/lib/x86_64-linux-gnu/libpython3.10.so')
