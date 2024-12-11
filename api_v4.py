@@ -72,6 +72,7 @@ async def login(credentials: UserCredentials):
         })
         return {"message": "Login successful", "account_info": account_info}
     except Exception as e:
+        print(str(e))
         raise HTTPException(status_code=400, detail=str(e))
 
 
